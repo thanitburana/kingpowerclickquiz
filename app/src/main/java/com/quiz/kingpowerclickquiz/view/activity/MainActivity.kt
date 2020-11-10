@@ -44,4 +44,8 @@ class MainActivity : AppCompatActivity(),PhotosAdapter.OnPhotoListener {
     override fun onItemSelect(photo: Photo) {
         ActivityNavigation.gotoWebViewActivity(this,photo)
     }
+
+    override fun onBackPressed() {
+        finish()
+    }
 }
