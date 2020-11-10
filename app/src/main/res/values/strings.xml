@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KingPowerClickQuiz</string>
+    <string name="not_connect_network">ไม่พบเครือข่ายอินเทอร์เน็ต</string>
+
+    <!-- alertDialog -->
+    <string name="ok">ตกลง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="button_text_reply">ลองใหม่อีกครั้ง</string>
+    <!-- WebViewActivity -->
+    <string name="toolbar_lorem_ipsum">Lorem ipsum</string>
+    <string name="toolbar_photos">Photos</string>
+</resources>
